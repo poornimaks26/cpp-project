@@ -1,2 +1,0 @@
-# cpp-project
-C++ Programs
